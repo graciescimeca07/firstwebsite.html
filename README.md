@@ -178,7 +178,7 @@
     </div>
 
     <div class="logo-container">
-        <img src="PowerCore_Gym_Logo.jpg" alt="PowerCore Gym Logo">
+        <img src="PowerCore Gym Logo.jpg" alt="PowerCore Gym Logo">
     </div>
 
     <!-- Registration Form -->
